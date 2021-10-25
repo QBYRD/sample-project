@@ -1,2 +1,2 @@
-alert("Helgjeigohiuwes") 
-console.log("Test")
+console.log("zimpw fhued")
+alert("Hello!") 
